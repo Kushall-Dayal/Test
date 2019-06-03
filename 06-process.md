@@ -1,9 +1,9 @@
-﻿**Effective Use of Color in a Visualization**
+﻿### **Effective Use of Color in a Visualization**
 
 When coming up with a visualization one must understand the impact of colors used in a chart. Color can grab people&#39;s attention, set the mood, and influence perception.  Our brain views color in terms of lightness (black to white), saturation (dull to bright), and hue (red, orange, yellow, green, blue, purple.)
 
 To start with here are some Dos and Donts:
-
+[@prerequisites_colorrules]
 **Dos :**
 
 - **Use one color to represent continuous data**  – Representing continuous data and ranges by varying the saturation or value of a color makes you chart straightforward and easy to read.
@@ -22,6 +22,7 @@ To start with here are some Dos and Donts:
 - **Use too many colors**  – Try to avoid the rainbow effect! Less is more. Make sure the colors you choose have a purpose and make your chart easier to read, not harder.
 
 Some Prerequisites while choosing a color scheme for a visualization are:
+[@prerequisites_colorchoose]
 
 - **Symbolism :** Symbolic colors vary by culture: for example, red is often used to represent love or passion in Western cultures, whilst Eastern cultures associate it with wealth and fortune.
 - **Emotional values :** for example, think of age: little ones generally appreciate brighter colors, and therefore retailers whose target audience consist of children will use cheery and vivid colors on packaging and advertisements.
