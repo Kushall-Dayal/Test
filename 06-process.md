@@ -23,7 +23,7 @@ To start with here are some Dos and Donts:
 
 Some Prerequisites while choosing a color scheme for a visualization are:
 
-- **Symbolism** : Symbolic colors vary by culture: for example, red is often used to represent love or passion in Western cultures, whilst Eastern cultures associate it with wealth and fortune.
-- **Emotional values**** :** for example, think of age: little ones generally appreciate brighter colors, and therefore retailers whose target audience consist of children will use cheery and vivid colors on packaging and advertisements.
-- **Historical experiences**** :** for example, if you once felt threatened by a fire, red and orange might have negative connotations for you throughout your life.
-- **Signaling conventions in society**** :** Signal colors are hues that send our minds a message. They are part of our everyday life, just take for example how we use traffic lights to regulate our drives.
+- **Symbolism :** Symbolic colors vary by culture: for example, red is often used to represent love or passion in Western cultures, whilst Eastern cultures associate it with wealth and fortune.
+- **Emotional values :** for example, think of age: little ones generally appreciate brighter colors, and therefore retailers whose target audience consist of children will use cheery and vivid colors on packaging and advertisements.
+- **Historical experiences :** for example, if you once felt threatened by a fire, red and orange might have negative connotations for you throughout your life.
+- **Signaling conventions in society :** Signal colors are hues that send our minds a message. They are part of our everyday life, just take for example how we use traffic lights to regulate our drives.
